@@ -11,19 +11,19 @@ I *love* the comfort that brings.
 
 This is the most rewarding block of code I have written so far:
 
-public SalesLevel GetSalesLevel(){
-            SalesLevel salesLevel = SalesLevel.Bronze;
-            if(this.sales >= 10000.00 && this.sales <= 19999.99 ){
-                salesLevel = SalesLevel.Silver;
-            }else if(this.sales >= 20000.00 && this.sales <= 29999.99){
-                salesLevel = SalesLevel.Gold;
-            }else if(this.sales >= 30000.00 && this.sales <= 39999.99){
-                salesLevel = SalesLevel.Diamond;
-            }else if(this.sales > 40000.00){
-                salesLevel = SalesLevel.Platinum;
-            }
-            return salesLevel;
-        }
+> public SalesLevel GetSalesLevel(){
+>            SalesLevel salesLevel = SalesLevel.Bronze;
+>            if(this.sales >= 10000.00 && this.sales <= 19999.99 ){
+>                salesLevel = SalesLevel.Silver;
+>            }else if(this.sales >= 20000.00 && this.sales <= 29999.99){
+>                salesLevel = SalesLevel.Gold;
+>            }else if(this.sales >= 30000.00 && this.sales <= 39999.99){
+>                salesLevel = SalesLevel.Diamond;
+>            }else if(this.sales > 40000.00){
+>                salesLevel = SalesLevel.Platinum;
+>            }
+>            return salesLevel;
+>        }
         
 This code was part of a project I submitted this week in 2040. It is pretty simple logic to get specific Sales Levels to print out based on the information given. 
 I was able to write this without thinking about it but I wrote it one time with no errors and it ran perfectly on the first try. I have never experienced this 
