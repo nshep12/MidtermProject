@@ -30,7 +30,7 @@ I was able to write this without thinking about it but I wrote it one time with 
 in programming so it was a big moment for me. 
 
 I also enjoyed learning about **FizzBuzz**:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -58,3 +58,4 @@ function fizzbuzz() {
 </body>
 
 </html>
+```
