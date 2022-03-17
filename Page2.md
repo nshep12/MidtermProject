@@ -9,8 +9,8 @@ is asked of this field, I get more and more excited for the future. I struggled 
 difference I can in my future. 
 I *love* the comfort that brings. 
 
-- This is the most rewarding block of code I have written so far:
-
+This is the most rewarding block of code I have written so far:
+```
 public SalesLevel GetSalesLevel(){
             SalesLevel salesLevel = SalesLevel.Bronze;
             if(this.sales >= 10000.00 && this.sales <= 19999.99 ){
@@ -24,8 +24,8 @@ public SalesLevel GetSalesLevel(){
             }
             return salesLevel;
         }
-        
--This code was part of a project I submitted this week in 2040. It is pretty simple logic to get specific Sales Levels to print out based on the information given. 
+```        
+This code was part of a project I submitted this week in 2040. It is pretty simple logic to get specific Sales Levels to print out based on the information given. 
 I was able to write this without thinking about it but I wrote it one time with no errors and it ran perfectly on the first try. I have never experienced this 
 in programming so it was a big moment for me. 
 
