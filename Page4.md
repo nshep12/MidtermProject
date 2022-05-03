@@ -5,3 +5,4 @@ INFOTEC1000-Midterm Project
 
 - This is Banjo. He is a special boy. 
 - ![This may be graphic to some viewers](received_2406254243033002.jpeg)
+[Mizzou](https://missouri.edu)
